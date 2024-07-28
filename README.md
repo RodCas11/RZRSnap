@@ -18,7 +18,7 @@ This project provides a simple graphical interface to enable and disable the Sna
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/snap-tap-controller.git
+    git clone https://github.com/RodCas11/RZRSnap.git
     cd snap-tap-controller
     ```
 
